@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+f:hover{color: rgb(47, 124, 238);}
+ s, f ,n,t,w,e{font-size: 17px; margin-left: 15px;} 
+ h{font-size: 35px; color: black;}
+s:hover{ color: yellow; } 
+n:hover{color: deeppink;} 
+w:hover{color: rgb(44, 197, 78);} 
+e:hover{color: red;} 
+t:hover{color: rgb(47, 124, 238);}
+
+#ICON{
+    /* align-self: flex-start; */
+    margin-right: -90%;
+}
